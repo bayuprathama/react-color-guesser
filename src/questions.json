@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "red",
+    "colorCode": "#FF0000",
+    "options": ["#FF0000", "#00FF00", "#0000FF"]
+  },
+  {
+    "id": 2,
+    "name": "green",
+    "colorCode": "#00FF00",
+    "options": ["#FF0000", "#00FF00", "#0000FF"]
+  },
+  {
+    "id": 3,
+    "name": "blue",
+    "colorCode": "#0000FF",
+    "options": ["#FF0000", "#00FF00", "#0000FF"]
+  }
+]
